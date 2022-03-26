@@ -155,19 +155,20 @@ function resetDirection () {
 }
 
 function isGameEnded () {
-    let head = snake[0];
+    let isEnded = false;
 
-    snake.slice(1, snake.length).forEach((element) => {
+    let head = snake[0];
+    snake.slice(1, snake.length).forEach(element => {
         if (element.x === head.x && element.y === head.y) {
-            return true;
+            isEnded = true;
         }
     });
 
     if (head.x < 0 || head.y < 0 || head.x >= snake_canva.width || head.y >= snake_canva.height) {
-        return true;
+        isEnded = true;
     }
 
-    return false;
+    return isEnded;
 }
 
 function endGame () {
