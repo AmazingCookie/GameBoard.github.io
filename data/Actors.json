@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Eil_Kelly_Lance_King_Hugh","classId":1,"equips":[0,0,0,1,2],"faceIndex":0,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"以利亚","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"Eil_Kelly_Lance_King_Hugh","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"兰斯","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":4,"characterName":"Eil_Kelly_Lance_King_Hugh","classId":2,"equips":[0,0,0,1,0],"faceIndex":2,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"李维","nickname":"","note":"","profile":"因被人暗算失去了圣骑士地位，但如今依然为了\n骑士精神而四处修行。"},
+{"id":4,"battlerName":"","characterIndex":5,"characterName":"Eil_Kelly_Lance_King_Hugh","classId":5,"equips":[0,0,0,1,0],"faceIndex":4,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"威尔","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"Eil_Kelly_Lance_King_Hugh","classId":5,"equips":[0,0,0,1,0],"faceIndex":6,"faceName":"Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"凯莉","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":5,"characterName":"Others","classId":5,"equips":[0,0,0,1,0],"faceIndex":1,"faceName":"Actor5","traits":[],"initialLevel":1,"maxLevel":99,"name":"莉莉安","nickname":"森林守护者","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":7,"characterName":"Others","classId":5,"equips":[0,0,0,1,0],"faceIndex":2,"faceName":"Actor5","traits":[],"initialLevel":1,"maxLevel":99,"name":"凯尔","nickname":"无影疾风","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":1,"characterName":"Others","classId":4,"equips":[0,0,0,1,0],"faceIndex":5,"faceName":"Actor5","traits":[],"initialLevel":1,"maxLevel":99,"name":"麦伦","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"Holly","classId":4,"equips":[0,0,0,1,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"阿尔文","nickname":"优雅的恶梦","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"Others","classId":3,"equips":[0,0,0,1,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"奥狄斯","nickname":"观星者","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":6,"characterName":"Others","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"艾菲尔","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":3,"characterName":"Holly","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"梅莉","nickname":"","note":"","profile":""}
+]

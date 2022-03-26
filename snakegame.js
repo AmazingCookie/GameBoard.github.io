@@ -17,7 +17,11 @@ let food = {x: -1, y: -1};
 const direction = ['left', 'right', 'up', 'down'];
 let current_direction = 'right'; //default
 
-initGame();
+const snake_button = document.querySelector('#snake-start');
+snake_button.addEventListener('click', (event) => {
+    initGame();
+});
+
 
 function initGame () {
     generateFood();
