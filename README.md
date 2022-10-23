@@ -9,3 +9,8 @@ Note: The story, all names, characters, and incidents portrayed in this producti
 - Development Tool: RPG MAKER
 
 ## Game Preview
+![image](https://user-images.githubusercontent.com/11586022/197372560-9289bb74-3a67-4c4f-82c2-1a863b77a36e.png)
+![image](https://user-images.githubusercontent.com/11586022/197372698-3b1a99a4-7472-4c41-bd02-3c45bc921389.png)
+![image](https://user-images.githubusercontent.com/11586022/197372837-ed854670-3edb-4421-8016-d93843224e2a.png)
+![image](https://user-images.githubusercontent.com/11586022/197372865-445e4b70-8f7d-4c1f-a63b-ea104774a5e7.png)
+![image](https://user-images.githubusercontent.com/11586022/197372881-4caf77b3-821b-4e3d-8ef3-e1093017a75a.png)
